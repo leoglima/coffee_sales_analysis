@@ -15,6 +15,19 @@ Feito com Python: `pandas`, `matplotlib`, `seaborn`.
 - 👤 **Clientes fiéis**: Alguns clientes compram diariamente (ex: ANON-0000-0000-0141)
 - 🧋 **Ticket médio**: R$ 28,50
 
+## 🕰️ Análise por Horário do Dia
+
+| Período | Comportamento |
+|--------|-------------|
+| **Manhã (5h–12h)** | Alta demanda por Cortado e Americano |
+| **Tarde (12h–18h)** | Cresce o consumo de Latte e Cappuccino |
+| **Noite (18h–5h)** | Preferência por Hot Chocolate e produtos doces |
+
+➡️ Isso indica que a cafeteria pode:
+- Fazer promoções matinais de "Combo Café + Pão"
+- Oferecer descontos em produtos doces à noite
+- Estender horário com foco em chocolate quente nos finais de semana
+
 ---
 
 ## Estrutura do Projeto
