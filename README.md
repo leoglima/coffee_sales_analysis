@@ -1,0 +1,57 @@
+# ☕ Coffee Sales Analysis
+
+Este projeto realiza uma análise completa das vendas de uma cafeteria a partir do arquivo `coffee_sales.csv`. O objetivo é extrair insights valiosos sobre produtos mais vendidos, comportamento de clientes, tendências sazonais e métodos de pagamento.
+
+Feito com Python: `pandas`, `matplotlib`, `seaborn`.
+
+---
+
+## Insights Principais
+
+- ✅ **Produto mais vendido**: Cortado
+- 💰 **Produto com maior receita**: Latte (devido ao preço mais alto)
+- 📈 **Pico de vendas**: Agosto de 2024
+- 💳 **90% das vendas são com cartão**
+- 👤 **Clientes fiéis**: Alguns clientes compram diariamente (ex: ANON-0000-0000-0141)
+- 🧋 **Ticket médio**: R$ 28,50
+
+---
+
+## Estrutura do Projeto
+# coffee-sales-analysis
+
+- **data/** → Dados brutos
+- **notebooks/** → Notebook Jupyter com análise completa
+- **src/** → Scripts modulares
+- **outputs/** → Dados limpos e gráficos
+- **README.md**
+- **requirements.txt**
+- **LICENSE**
+
+
+---
+
+## Visualizações
+
+### Vendas por Produto
+![sales_by_product](outputs/figures/sales_by_product.png)
+
+### Evolução de Vendas ao Longo do Tempo
+![sales_over_time](outputs/figures/sales_over_time.png)
+
+### Top 10 Clientes por Compras
+![top_customers](outputs/figures/top_customers.png)
+
+---
+
+## 🚀 Como Executar
+
+1. Clone o repositório:
+```bash
+git clone https://github.com/seu-usuario/coffee-sales-analysis.git
+cd coffee-sales-analysis
+```
+---
+## Licença
+
+Este projeto está licenciado sob os termos da [MIT License](./LICENSE).
