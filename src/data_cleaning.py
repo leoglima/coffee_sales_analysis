@@ -13,7 +13,7 @@ def load_and_clean_data(file_path):
     df['Product'] = df['Product'].str.strip()
     return df
 
-# Exemplo de uso
+
 if __name__ == "__main__":
     df = load_and_clean_data('../data/coffee_sales.csv')
     print(df.head())
