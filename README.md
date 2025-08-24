@@ -48,7 +48,7 @@ Feito com Python: `pandas`, `matplotlib`, `seaborn`.
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/coffee-sales-analysis.git
+git clone https://github.com/leoglima/coffee_sales_analysis.git
 cd coffee-sales-analysis
 ```
 ---
